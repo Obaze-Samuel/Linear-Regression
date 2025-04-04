@@ -12,3 +12,6 @@ Sample Question Papers Practiced: The number of sample question papers the stude
 # Target Variable:
 Performance Index: A measure of the overall performance of each student. The performance index
 represents the student’s academic.
+
+@ performance and has been rounded to the nearest integer. The index ranges from 10 to 100, with
+higher values indicating better
