@@ -8,3 +8,5 @@ Extracurricular Activities: Whether the student participates in extracurricular 
 or No).
 Sleep Hours: The average number of hours of sleep the student had per day.
 Sample Question Papers Practiced: The number of sample question papers the student practiced.
+
+# Target Variable:
