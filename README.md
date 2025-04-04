@@ -1,6 +1,6 @@
 # Linear-Regression
 Student Performance (Multiple Linear Regression)! This is to examine the impact of Hours Studied,Previous Scores,Extracurricular Activities,Sleep Hours, and Sample Question Papers Practiced on Performance Index
-
+# About Dataset
 # Description:
 Hours Studied: The total number of hours spent studying by each student
 Previous Scores: The scores obtained by students in previous tests.
