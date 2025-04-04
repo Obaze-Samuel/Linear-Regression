@@ -7,4 +7,4 @@ Previous Scores: The scores obtained by students in previous tests.
 Extracurricular Activities: Whether the student participates in extracurricular activities (Yes
 or No).
 Sleep Hours: The average number of hours of sleep the student had per day.
-Sample Question Papers Practiced: The number of sample question papers the student practiced.
+Sample Question Papers Practiced: The number of sample question papers the student practiced.
